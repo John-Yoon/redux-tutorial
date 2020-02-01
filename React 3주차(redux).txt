@@ -1,0 +1,7 @@
+1. npx creat-react-app redux-tutorial
+
+2. npm i -S redux
+
+3. chrome redux devtools, add chrome application
+
+4. npm i -S react-redux
